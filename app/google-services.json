@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "256391379144",
+    "firebase_url": "https://uidesignlabcloud-ec2b3-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "uidesignlabcloud-ec2b3",
+    "storage_bucket": "uidesignlabcloud-ec2b3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256391379144:android:bf144ba91bfa6b7df70dfd",
+        "android_client_info": {
+          "package_name": "com.example.uidesignlab"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWw1N1ShGt5xSZASIGnEtHGI5-aAJaHRE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
